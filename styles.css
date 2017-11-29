@@ -21,4 +21,16 @@ div {
 
 h1 {
     font-size: 100px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #2e2e2e;
+    transition: 1s;
+}
+
+a:hover {
+    color: #e92133;
+    transition: 1s;
 }

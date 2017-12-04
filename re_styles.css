@@ -9,13 +9,13 @@ body {
 
 div {
     display: inline-block;
-    width: 900px;
+    width: 1200px;
     height: 120px;
     position: absolute;
     top: 50%;
     left: 50%;
     margin-top: -60px;
-    margin-left: -450px;
+    margin-left: -600px;
     /*background: red;*/
 }
 

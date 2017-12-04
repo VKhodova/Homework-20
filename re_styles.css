@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Museo Sans Cyrl", Arial, sans-serif;
+}
+
+div {
+    display: inline-block;
+    width: 900px;
+    height: 120px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -60px;
+    margin-left: -450px;
+    /*background: red;*/
+}
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #2e2e2e;
+    transition: 1s;
+}
+
+a:hover {
+    color: #f2e705;
+    transition: 1s;
+}
+
+.text {
+    color: #2e2e2e;
+}
